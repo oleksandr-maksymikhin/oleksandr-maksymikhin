@@ -27,7 +27,7 @@ Bachelor's degree in _**Software engineering**_
     <img src="assets/net.png" alt=".NET" width="60" height="60" />
   </a>
   <a href="https://azure.microsoft.com/en-us/" title="azure">
-    <img src="assets/azure1.png" alt="azure" width="60" height="60" />
+    <img src="assets/azure1.png" alt="azure" height="60" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" title="sqlserver">
     <img src="assets/sqlserver_1.png" alt="sqlserver" width="60" height="60" />
