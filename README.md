@@ -8,7 +8,8 @@ Currently I am studying Computer and data science at MIT.
 Here I plan to get experience in:
 
 * data science
+* * participation in group projects
 * Python programming
-* participation in group projects
 
-You can contact me via
+You can contact me
+[LinkedIn](https://www.linkedin.com/in/oleksandr-maksymikhin/)
