@@ -16,21 +16,21 @@ Bachelor's degree in _**Software engineering**_
 
 ## Favorite technological stack
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center; color: transparent">
   <a href="https://en.cppreference.com/w/" title="C++">
-    <img src="assets/cpp.png" alt="C++" width="60" height="60" />
+    <img src="assets/cpp.png" alt="C++" height="60" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" title="C#">
-    <img src="assets/c_sharp.png" alt="C#" width="60" height="60" />
+    <img src="assets/c_sharp.png" alt="C#" height="60" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/" title=".NET">
-    <img src="assets/net.png" alt=".NET" width="60" height="60" />
+    <img src="assets/net.png" alt=".NET" height="60" />
   </a>
   <a href="https://azure.microsoft.com/en-us/" title="azure">
     <img src="assets/azure1.png" alt="azure" height="60" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" title="sqlserver">
-    <img src="assets/sqlserver_1.png" alt="sqlserver" width="60" height="60" />
+    <img src="assets/sqlserver_1.png" alt="sqlserver" height="60" />
   </a>
   
   </div>
