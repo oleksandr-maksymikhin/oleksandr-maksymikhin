@@ -16,7 +16,7 @@ Bachelor's degree in _**Software engineering**_
 
 ## Favorite technological stack
 
-<div style="display: flex; gap: 10px; align-items: center">
+<div style="display: flex; align-items: center">
   <a style="color: transparent" href="https://en.cppreference.com/w/" title="C++">
     <img src="assets/cpp.png" alt="C++" height="60" />
   </a>
