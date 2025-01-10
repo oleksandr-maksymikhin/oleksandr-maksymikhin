@@ -6,13 +6,13 @@ I am an experienced financial manager in transitioning to software development
 
 ### Experience
 
-16 years in financial management and reporting  
-5 years in accounting processes automation with [SAP](https://www.sap.com/index.html)
+&nbsp; 16 years in financial management and reporting  
+&nbsp; 5 years in accounting processes automation with [SAP](https://www.sap.com/index.html)
 
 ### Education
 
-Master's degree in _Bank management_  
-Bachelor's degree in _Software engineering_
+&nbsp; Master's degree in *Bank management*  
+&nbsp; Bachelor's degree in *Software engineering*
 
 ## Favorite technological stack
 
